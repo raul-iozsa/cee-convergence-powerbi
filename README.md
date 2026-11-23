@@ -1,4 +1,4 @@
-# Economic convergence in Central and Eastern Europe, 2000–2025
+# Economic convergence in Central and Eastern Europe, 2000-2025
 
 A Power BI report on how far the 11 Central and Eastern European (CEE) EU members have caught up with the EU average since 2000. It covers growth, public finances, migration and labour. All data is imported from the Eurostat API when the report is refreshed. The written findings are fixed text, based on the data as of November 2026.
 
@@ -14,7 +14,7 @@ A Power BI report on how far the 11 Central and Eastern European (CEE) EU member
 
 1. **Convergence:** the CEE average rose from 48% to 80% of EU GDP per capita (in purchasing power standards) between 2000 and 2025. Romania recorded the largest gain among the 11 countries, rising from 26.4% of the EU average in 2000 to 78.0% in 2025. From EU accession in 2007 to 2025, it gained an average of 1.9 percentage points per year.
 2. **Public finance:** Romania ran the EU's largest deficit in 2024 (9.2% of GDP), above the EU's 3% limit every year since 2019. Its debt rose from 35% of GDP in 2019 to 59% in 2025. It spends less than the EU average on health (5.2% vs 7.3% of GDP) and on social protection (13.6% vs 19.5%).
-3. **Migration:** Latvia, Bulgaria, Lithuania and Romania lost 15–22% of their population between 2000 and 2025, while the EU grew by 5%. Since 2023, Romania has had net immigration (around 4–5 per 1,000 residents a year), although its wages are still about half the EU average.
+3. **Migration:** Latvia, Bulgaria, Lithuania and Romania lost 15-22% of their population between 2000 and 2025, while the EU grew by 5%. Since 2023, Romania has had net immigration (around 4–5 per 1,000 residents a year), although its wages are still about half the EU average.
 
 ## Report pages
 
@@ -40,13 +40,13 @@ Every table is loaded straight from the Eurostat SDMX API with Power Query, not 
 | Table | Eurostat dataset | Indicator |
 |---|---|---|
 | FactGDP | `nama_10_pc` | GDP per capita in PPS, EU-27 = 100 |
-| FactUnemployment | `une_rt_a` | Unemployment rate, age 15–74, % of labour force |
+| FactUnemployment | `une_rt_a` | Unemployment rate, age 15-74, % of labour force |
 | FactFinance | `gov_10dd_edpt1` | Government budget balance and gross debt, % of GDP |
 | FactSpending | `gov_10a_exp` | General government spending by function (COFOG), % of GDP |
 | FactPopulation | `demo_gind` | Population on 1 January and crude rate of net migration |
 | FactWages | `nama_10_fte` | Average full-time adjusted salary per employee, EUR |
 
-Coverage: the 27 EU countries and the EU-27 total, 2000–2025. CEE means Bulgaria, Croatia, Czechia, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovakia and Slovenia.
+Coverage: the 27 EU countries and the EU-27 total, 2000-2025. CEE means Bulgaria, Croatia, Czechia, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovakia and Slovenia.
 
 ## How it is built
 
