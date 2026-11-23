@@ -14,7 +14,7 @@ A Power BI report on how far the 11 Central and Eastern European (CEE) EU member
 
 1. **Convergence:** the CEE average rose from 48% to 80% of EU GDP per capita (in purchasing power standards) between 2000 and 2025. Romania recorded the largest gain among the 11 countries, rising from 26.4% of the EU average in 2000 to 78.0% in 2025. From EU accession in 2007 to 2025, it gained an average of 1.9 percentage points per year.
 2. **Public finance:** Romania ran the EU's largest deficit in 2024 (9.2% of GDP), above the EU's 3% limit every year since 2019. Its debt rose from 35% of GDP in 2019 to 59% in 2025. It spends less than the EU average on health (5.2% vs 7.3% of GDP) and on social protection (13.6% vs 19.5%).
-3. **Migration:** Latvia, Bulgaria, Lithuania and Romania lost 15-22% of their population between 2000 and 2025, while the EU grew by 5%. Since 2023, Romania has had net immigration (around 4–5 per 1,000 residents a year), although its wages are still about half the EU average.
+3. **Migration:** Latvia, Bulgaria, Lithuania and Romania lost 15-22% of their population between 2000 and 2025, while the EU grew by 5%. Since 2023, Romania has had net immigration (around 4-5 per 1,000 residents a year), although its wages are still about half the EU average.
 
 ## Report pages
 
